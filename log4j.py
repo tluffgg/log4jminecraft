@@ -1,8 +1,8 @@
-#!/usr/bin/env python3
+#!/tluff/bin/env python3
 
 # Run program using the following syntax: python3 log4j.py <ip_address of kali machine>.  
 # IP address above should be the one you get when running command: ip a s eth0
-
+ip adress 192.168.1.132
 # Install JDK and all software required.
 
 import subprocess
